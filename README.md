@@ -1,7 +1,7 @@
 # Chrome
-Version: ChromeDriver 73.0.3683.20
-Download: https://sites.google.com/a/chromium.org/chromedriver/downloads
-Documentacion: https://sites.google.com/a/chromium.org/chromedriver/
+* Version: ChromeDriver 73.0.3683.20
+* Download: https://sites.google.com/a/chromium.org/chromedriver/downloads
+* Documentacion: https://sites.google.com/a/chromium.org/chromedriver/
 ~~~
 ipython
 
