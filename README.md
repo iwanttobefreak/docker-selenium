@@ -21,9 +21,9 @@ driver.save_screenshot("<path dir/file.png>')
 ~~~
 
 # Firefox
-Version: FirefoxDriver v0.22.0
-Download: https://github.com/mozilla/geckodriver/releases/
-Documentacion: https://developer.mozilla.org/en-US/docs/Web/WebDriver
+* Version: FirefoxDriver v0.22.0
+* Download: https://github.com/mozilla/geckodriver/releases/
+* Documentacion: https://developer.mozilla.org/en-US/docs/Web/WebDriver
 
 ~~~
 ipython
